@@ -1,4 +1,3 @@
 # minato-info
-Information about the Virtual Youtuber Minato Aqua
-This is an attempt of a fanpage for Minato Aqua 
+This is an attempt of a fanpage for Minato Aqua <br>
 site at https://kenaqua.github.io/minato-info
