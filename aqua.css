@@ -1,0 +1,37 @@
+body {
+  font-family: "Georgia", sans-serif;
+    text-align: center; 
+  background-color: #00FFFF;
+  line-height: .7em;
+}
+
+h1 {
+  font-family: "Century Gothic", sans-serif;
+  text-align: center;
+  color: #FF69B4;
+  line-height: .5em;
+}
+
+h3 { 
+  line-height: 0.7em;
+}
+
+#video{
+  display:;
+}
+
+
+#img-div{
+  width: auto;
+  height: auto;
+  line-height: .8em;
+}
+
+#img-caption{
+  line-height: 1em;
+}
+
+#full-name{
+  line-height: 0em;
+}
+
