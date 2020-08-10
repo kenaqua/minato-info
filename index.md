@@ -1,0 +1,49 @@
+<!DOCTYPE=HTML>
+<html>
+<main id="main">
+<link rel="stylesheet" type="text/css" href="aqua.css">
+  <header><div class="flex-container"><h1 id="title">BAQUA</h1></header>
+  <p>My dumb onion can't be this cute</p>
+   <div id="video"><iframe width="20" height="20" src="https://www.youtube-nocookie.com/embed/-aB6MQU8l1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
+  <figure id="img-div">
+    <img class= "image" 
+         src="https://vignette.wikia.nocookie.net/virtualyoutuber/images/8/8b/Minato_Aqua_Portrait.png/revision/latest/scale-to-width-down/310?cb=20190215180705;" 
+         alt="Picture of Minato Aqua";
+         />
+    
+    <figcaption id="img-caption">
+      Aqua being a cute 
+    </figcaption>
+    
+  </figure>
+     
+  <section id ="aqua-info">
+    <h3 id="info-header">Aqua Information</h3>
+        
+    <p id="full-name"><strong>Full Name:</strong> Minato Aqua 湊あくあ　(みなとあくあ)</p>
+    <p> <a href="https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg" target="_blank"><strong>Aqua Ch</strong></a>
+    
+        </p>
+   </div>
+</main>
+    
+    
+        
+  
+   
+    
+                          
+                        
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</html>
